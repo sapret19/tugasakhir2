@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TugasAkhir2</string>
+    <string name="buah_name">Nama Buah</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Apel</item>
+        <item>Pisang</item>
+        <item>Jeruk</item>
+        <item>Mangga</item>
+        <item>Anggur</item>
+        <item>Strawberry</item>
+        <item>Kiwi</item>
+        <item>Semangka</item>
+        <item>Pepaya</item>
+        <item>Ceri</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Apel adalah buah berwarna merah atau hijau yang memiliki rasa manis dan sedikit asam. Kulitnya biasanya renyah, sedangkan dagingnya lembut dan berair. Apel mengandung serat yang baik untuk pencernaan dan vitamin C yang baik untuk sistem kekebalan tubuh.</item>
+        <item>Pisang adalah buah berbentuk panjang yang kulitnya kuning ketika matang. Daging pisangnya lembut dan manis. Buah ini kaya akan potassium, yang penting untuk kesehatan jantung dan otot.</item>
+        <item>Jeruk adalah buah berwarna oranye yang memiliki rasa asam-manis. Jeruk mengandung vitamin C yang tinggi, yang baik untuk menjaga kesehatan kulit dan sistem kekebalan tubuh.</item>
+        <item>Mangga adalah buah tropis yang besar dan berwarna kuning atau hijau. Daging mangga sangat manis dan berair. Mangga mengandung vitamin A yang baik untuk kesehatan mata.</item>
+        <item>Anggur adalah buah kecil berwarna ungu, hijau, atau merah. Anggur biasanya digunakan untuk membuat jus, anggur kering, atau anggur segar. Buah ini mengandung antioksidan yang baik untuk kesehatan jantung.</item>
+        <item>Strawberry adalah buah kecil berwarna merah cerah dengan biji kecil di permukaannya. Strawberry memiliki rasa manis dan asam yang unik. Buah ini kaya akan vitamin C dan serat.</item>
+        <item>Kiwi adalah buah kecil berkulit berbulu cokelat yang dagingnya hijau dengan biji kecil. Kiwi kaya akan vitamin C, vitamin K, dan serat. Rasanya segar dan manis.</item>
+        <item>Semangka adalah buah besar berwarna hijau dengan daging merah yang segar dan manis. Buah ini mengandung banyak air dan merupakan pilihan yang baik untuk melepas dahaga pada musim panas.</item>
+        <item>Pepaya adalah buah tropis berbentuk oval dengan kulit oranye atau kuning. Dagingnya oranye muda dan manis dengan biji hitam di tengahnya. Pepaya mengandung enzim yang baik untuk pencernaan.</item>
+        <item>Ceri adalah buah kecil berwarna merah atau hitam dengan biji di tengahnya. Buah ini memiliki rasa manis dan asam yang khas. Ceri kaya akan antioksidan dan baik untuk kesehatan jantung.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/apel</item>
+        <item>@drawable/pisang</item>
+        <item>@drawable/jeruk</item>
+        <item>@drawable/mangga</item>
+        <item>@drawable/anggur</item>
+        <item>@drawable/strawberry</item>
+        <item>@drawable/kiwi</item>
+        <item>@drawable/semangka</item>
+        <item>@drawable/pepaya</item>
+        <item>@drawable/ceri</item>
+    </integer-array>
+</resources>
